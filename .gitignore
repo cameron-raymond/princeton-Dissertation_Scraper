@@ -130,3 +130,5 @@ dmypy.json
 
 selenium
 creds.py
+data
+selenium/AutofillStates
